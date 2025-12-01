@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "env": {
+    "OPENAI_API_KEY": "@OPENAI_API_KEY"
+  },
+  "framework": "vite"
+}
